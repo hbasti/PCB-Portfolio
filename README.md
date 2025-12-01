@@ -1,2 +1,1 @@
-These files reflect work done towards creating a simple 555 timer circuit with a 50% duty cycle at 500 MHz, and realizing the design into a board layout. 
-The board analysis is included in the Board 1 report.
+The objective of Board 2 was to show best practices for designing a PCB using the 555 timer circuit from Board 1, along with two inverters: one over a ground plane, and one not + long power traces, and no decoupling capacitors.
