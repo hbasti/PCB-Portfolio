@@ -1,1 +1,1 @@
-The files in this portfolio reflect printed circuit board design work done byu Haley Basti at CU Boulder in the Fall 2025 semester for ECEN 5730: Practical PCB Design and Manufacture
+The objective of Board 2 was to show best practices for designing a PCB using the 555 timer circuit from Board 1, along with two inverters: one over a ground plane, and one not + long power traces, and no decoupling capacitors.
