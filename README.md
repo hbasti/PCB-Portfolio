@@ -1,1 +1,1 @@
-The objective of Board 2 was to show best practices for designing a PCB using the 555 timer circuit from Board 1, along with two inverters: one over a ground plane, and one not + long power traces, and no decoupling capacitors.
+These files reflect work done on other labs within ECEN 5730 not pertaining to board design.
