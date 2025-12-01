@@ -1,1 +1,1 @@
-The files in this portfolio reflect printed circuit board design work done byu Haley Basti at CU Boulder in the Fall 2025 semester for ECEN 5730: Practical PCB Design and Manufacture
+Board 3 builds on our understanding of best practices in designing a PCB by creating a "Golden Arduino" - an improved version of the original Arduino design.
